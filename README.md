@@ -68,7 +68,7 @@ In this section, we manually performed **three iterations** of the gradient desc
 [
 y = mx + b
 ]
-
+Here is the pdf for the Part 3 
 ### Given
 
 * Initial values: ( m_0 ) and ( b_0 )
